@@ -16,6 +16,6 @@ Affiliations
 7.	Department of Immunology, School of Medicine, Kyungpook National University, Daegu 41944, Republic of Korea
 8.	Department of Pathology, Kyungpook National University Chilgok Hospital, School of Medicine, Kyungpook National University, Daegu 41944, Republic of Korea 
 9.	Biomedical Research Institute, Kyungpook National University Hospital, Daegu 41940, Republic of Korea
-\\# First authors equally contributed
+\# First authors equally contributed
 $ These authors jointly supervised this work 
 
